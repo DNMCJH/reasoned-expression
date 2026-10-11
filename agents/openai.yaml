@@ -1,0 +1,4 @@
+interface:
+  display_name: "思考与表达"
+  short_description: "从判断、调查、组织到表达，处理对话、文章、报告、论文与翻译"
+  default_prompt: "用 $reasoned-expression 处理这份材料，检查判断和结构，再按读者需要写清楚。"
